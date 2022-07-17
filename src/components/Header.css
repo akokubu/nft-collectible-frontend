@@ -1,0 +1,29 @@
+.heading {
+  font-size: 48px;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 10px auto;
+  margin-bottom: 0px;
+}
+
+.gradient-text {
+  background: -webkit-linear-gradient(-70deg,#a2facf,#64acff);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.r-button {
+  margin: 20px auto;
+  padding: 10px 20px;
+  color: white;
+  background-color: #1868b7;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px; 
+}
+
+.r-button a {
+  color: white;
+  text-decoration: none;
+}

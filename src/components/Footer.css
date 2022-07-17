@@ -1,0 +1,21 @@
+.footer {
+  padding: 25px;
+}
+
+.footer p {
+  text-align: center;
+  line-height: 27px;
+}
+
+.footer span {
+  background: -webkit-linear-gradient(-70deg, rgb(243, 116, 255) 0%, rgb(255, 159, 100) 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.contract-link {
+  text-decoration: underline;
+  text-decoration-color: #64acff;
+  word-break: break-all;
+}
